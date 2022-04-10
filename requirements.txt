@@ -1,0 +1,11 @@
+nekos.py
+discord.py
+async_cse
+matplotlib
+sr_api
+asyncdagpi
+gtts
+pyfiglet
+aiosqlite
+async_cleverbot
+jishaku
